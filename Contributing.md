@@ -1,6 +1,6 @@
 # Contribute to this documentation
 
-Thank you for your interest in our documentation!
+Thank you for your interest in our documentation! thanks
 
 * [Ways to contribute](#ways-to-contribute)
 * [Contribute using GitHub](#contribute-using-github)
